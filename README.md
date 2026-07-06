@@ -36,8 +36,16 @@ CKE, an enhanced version of Cubic Kernel my boys
 
 ### ALEOS FIBER 1.1.2 IS HERE! USE IT AT: https://turbowarp.org/?project_url=cdn.jsdelivr.net/gh/AlRX890/CubicKernel_Enhanced%40main/AleOS%20Fiber1.1.2.sb3&fps=60&interpolate&clones=Infinity&hqpen&size=640x360
 
+### CKE 1.1.2.1, USE IT AT: https://turbowarp.org/?project_url=rawcdn.githack.com/AlRX890/CubicKernel_Enhanced/refs/heads/main/cubic1.1.2.1.sb3&fps=60&interpolate&clones=Infinity&hqpen&size=640x360
+
 # REMOVED STUFF
 
 ### 1.0-beta 2 10_REBUILD:
 
 #### My Blocks+ (CST ID) due to CKE 1.0-beta2 breaking on CodeTorch with collab
+
+# 1.1.2.1 changelog
+### Bug fixes
+### CubePKG now works
+### new kernel.cube sprite
+### Added turbostation for BIOS Menu, Boot Menu & Stub OS (tho its useless)
