@@ -1,1 +1,13 @@
-themerDRV
+{
+  "name": "themer.drv",
+  "version": "1.0.0",
+  "author": "AlejandrixKing245"
+  "type": "driver",
+  "category": "system",
+  "dependencies": {},
+  "capabilities": [
+    "ui_styling",
+    "color_palette_manager"
+  ],
+  "runtime_mode": "passive"
+}
