@@ -4,6 +4,8 @@ CKE, an enhanced version of Cubic Kernel my boys
 1.0-beta1
 1.0
 1.1
+1.1.2
+1.1.2.1 (reason: fserror_scr bug)
 # CKE Features
 ### This has now:
 AutoFS (automatic FS mounter, and home of the FSCK (file system check)),
@@ -16,8 +18,6 @@ CubeDrv,
 LAGPE PORT (tho it's not preinstalled to not be confused with CubeDrv)
 
 # How to use?
-### ALEOS FIBER 1.1.2 IS HERE! USE IT AT: https://turbowarp.org/?project_url=cdn.jsdelivr.net/gh/AlRX890/CubicKernel_Enhanced%40main/AleOS%20Fiber1.1.2.sb3&fps=60&interpolate&clones=Infinity&hqpen&size=640x360
-### CKE 1.1.2.1, USE IT AT: https://turbowarp.org/?project_url=rawcdn.githack.com/AlRX890/CubicKernel_Enhanced/refs/heads/main/cubic1.1.2.1.sb3&fps=60&interpolate&clones=Infinity&hqpen&size=640x360 (BROKEN)
 ### CKE 1.1.2.2, USE IT AT: https://turbowarp.org/?project_url=rawcdn.githack.com/AlRX890/CubicKernel_Enhanced/refs/heads/main/cubic1.1.2.2.sb3&fps=60&interpolate&clones=Infinity&hqpen&size=640x360
 
 # Notes
