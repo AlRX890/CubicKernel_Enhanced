@@ -37,3 +37,6 @@ Added turbostation for BIOS Menu, Boot Menu & Stub OS (tho its useless)
 
 # 1.1.2.2 changelog 
 Removed FSERROR_SCR
+
+# 1.2 PROBLEMS
+So due to issues in my Windows 10 loT LTSC Enterprise 2021 install had to reinstall Windows 10 but COMITTED the error of not backing up every sb3 file so lost everything to older cke versions and unfinished/unreleased stuff 
